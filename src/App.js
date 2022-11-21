@@ -1,7 +1,7 @@
 import Calendar from './components/Calendar';
-import './main.css';
+import './components/main.css';
 
-const now = new Date(1977, 0, 23);
+const now = new Date(2017, 2, 8);
 
 function App() {
   return (
